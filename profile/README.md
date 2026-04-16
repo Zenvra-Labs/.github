@@ -53,14 +53,6 @@ To begin using Zenvra Engine:
 
 ---
 
-## Repositories
-
-* Zenvra Core
-* Zenvra Renderer
-* Zenvra Tools
-
----
-
 Zenvra is not about pushing limits.
 
 It is about understanding them.
