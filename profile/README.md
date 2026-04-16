@@ -39,6 +39,8 @@ Zenvra Labolatories follows a strict policy regarding usage:
 
 This policy ensures the project remains stable, focused, and fair for all contributors.
 
+---
+
 Zenvra is not about pushing limits.
 
 It is about understanding them.
