@@ -4,7 +4,7 @@
 
 ---
 
-Zenvra Engine is a community-driven 3D engine focused on adaptive performance, stability, and hardware-aware rendering.
+Zenvra Labolatories is a community-driven 3D engine focused on adaptive performance, stability, and hardware-aware rendering.
 
 Unlike traditional engines that push systems to their limits, Zenvra is designed to maintain balance — delivering consistent performance without overwhelming hardware.
 
@@ -21,7 +21,7 @@ This results in smoother workflows, better stability, and a more accessible deve
 
 ## Community & Usage
 
-Zenvra Engine is currently developed and maintained as a community-scale project.
+Zenvra Labolatories is currently developed and maintained as a community-scale project.
 
 * Open for learning, experimentation, and development
 * Suitable for personal projects and non-commercial use
@@ -31,7 +31,7 @@ Zenvra Engine is currently developed and maintained as a community-scale project
 
 ## Licensing & Restrictions
 
-Zenvra Engine follows a strict policy regarding usage:
+Zenvra Labolatories follows a strict policy regarding usage:
 
 * Commercial use is **not allowed** at this stage
 * Projects intended for profit may result in **revoked access** to the engine
