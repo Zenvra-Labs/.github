@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="assets/logo.png" width="220"/>
+  <img src="assets/zenvra_logo.png" width="220"/>
 </p>
-
-<h1 align="center">ZENVRA ENGINE</h1>
 
 ---
 
