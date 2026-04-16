@@ -8,8 +8,6 @@ Zenvra Engine is a community-driven 3D engine focused on adaptive performance, s
 
 Unlike traditional engines that push systems to their limits, Zenvra is designed to maintain balance — delivering consistent performance without overwhelming hardware.
 
----
-
 ## Philosophy
 
 Zenvra is built around a simple idea:
