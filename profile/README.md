@@ -39,18 +39,6 @@ Zenvra Engine follows a strict policy regarding usage:
 
 This policy ensures the project remains stable, focused, and fair for all contributors.
 
----
-
-## Getting Started
-
-To begin using Zenvra Engine:
-
-* Clone the repository
-* Follow setup instructions in each module
-* Explore and contribute to the ecosystem
-
----
-
 Zenvra is not about pushing limits.
 
 It is about understanding them.
